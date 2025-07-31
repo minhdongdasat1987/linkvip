@@ -21,4 +21,4 @@ curl -sSf https://raw.githubusercontent.com/W8SOJIB/W8RootWifiHK/main/installer.
 # Copy wifihack.sh to Termux home directory
 cp wifihack.sh /data/data/com.termux/files/home/
 
-printf "###############################################\n#  All done! Now you can run OneShot with\n#   sudo python neshot.py -i wlan0 -K\n#\n#  Join W8Team,\n#\n###############################################\n"
+printf "###############################################\n#  All done! Now you can run OneShot with\n#   sudo python neshot.py -i wlan0 -K\n#\n#  Join Manh_Link,\n#\n###############################################\n"
