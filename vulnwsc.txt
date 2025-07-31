@@ -1,0 +1,171 @@
+1. ADSL RT2860
+2. ADSL Router EV-2006-07-27
+3. AIR3G WSC Wireless Access Point AIR3G WSC Device
+4. AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP
+5. Archer A2 5.0
+6. Archer A5 4.0
+7. Archer C2 1.0
+8. Archer C2 3.0
+9. Archer C20 1.0
+10. Archer C20 4.0
+11. Archer C20 5.0
+12. Archer C5 4.0
+13. Archer C50 1.0
+14. Archer C50 3.0
+15. Archer C50 4.0
+16. Archer C50 5.0
+17. Archer C50 6.0
+18. Archer C6 3.20
+19. Archer C6U 1.0.0
+20. Archer MR200 1.0
+21. Archer MR200 4.0
+22. Archer MR200 5.0
+23. Archer MR400 4.2
+24. Archer VR2100 1.0
+25. Archer VR300 1.20
+26. Archer VR400 3.0
+27. ArcherC20i 1.0
+28. Archer_A9 1.0
+29. B-LINK 123456
+30. Belkin AP EV-2012-09-01
+31. Belkin F6D4230-4
+32. D-Link N Router GO-RT-N150
+33. D-Link Router DIR-605L
+34. D-Link Router DIR-615H1
+35. D-Link Router DIR-655
+36. D-Link Router DIR-809
+37. D-Link Router GO-RT-N150
+38. DAP-1360 DAP-1360
+39. DIR-635 B3
+40. DIR-819 v1.0.1
+41. DIR-842 DIR-842
+42. DWR-921C3 WBR-0001
+43. EC120-F5 1.0
+44. EC220-G5 2.0
+45. EV-2009-02-06
+46. Edimax Edimax
+47. Enhanced Wireless Router F6D4230-4 v1
+48. Home Internet Center KEENETIC series
+49. Home Internet Center Keenetic series
+50. Huawei Wireless Access Point RT2860
+51. JWNR2000v2(Wireless AP) JWNR2000v2
+52. Keenetic Keenetic series
+53. Linksys EA7500
+54. Linksys Wireless Access Point EA7500
+55. Linksys Wireless Router WRT110
+56. N/A EV-2010-09-20
+57. NBG-419N NBG-419N
+58. NETGEAR Wireless Access Point NETGEAR
+59. NETGEAR Wireless Access Point R6220
+60. NETGEAR Wireless Access Point R6260
+61. Netgear AP EV-2012-08-04
+62. RT-G32 1234
+63. RTL8196E
+64. RTL8xxx EV-2009-02-06
+65. RTL8xxx EV-2010-09-20
+66. RTL8xxx RTK_ECOS
+67. Ralink Wireless Access Point RT2860
+68. Ralink Wireless Access Point WR-AC1210
+69. Sitecom Wireless Router 300N X2 300N
+70. Smart Router R3 RT2860
+71. TD-W8151N RT2860
+72. TD-W8901N RT2860
+73. TD-W8951ND RT2860
+74. TD-W8968 2.0
+75. TD-W9960 1.0
+76. TD-W9960 1.20
+77. TD-W9960v 1.0
+78. TEW-731BR TEW-731BR
+79. TL-MR100 1.0
+80. TL-MR3020 3.0
+81. TL-MR3420 5.0
+82. TL-MR6400 3.0
+83. TL-MR6400 4.0
+84. TL-WA855RE 4.0
+85. TL-WR1042N EV-2010-09-20
+86. TL-WR840N 4.0
+87. TL-WR840N 5.0
+88. TL-WR840N 6.0
+89. TL-WR841HP 5.0
+90. TL-WR841N 13.0
+91. TL-WR841N 14.0
+92. TL-WR842N 5.0
+93. TL-WR845N 3.0
+94. TL-WR845N 4.0
+95. TL-WR850N 1.0
+96. TL-WR850N 2.0
+97. TL-WR850N 3.0
+98. TP-Link Archer A9
+99. Tenda 123456
+100. Tenda AC6
+101. Tenda RTL8xxx EV-2009-02-06
+102. Timo RA300R4 Timo RA300R4
+103. Trendnet router TEW-625br
+104. Trendnet router TEW-651br
+105. VMG3312-T20A RT2860
+106. VMG8623-T50A RT2860
+107. VN020-F3 1.0
+108. WAP300N WAP300N
+109. WAP3205 WAP3205
+110. WN-200R WN-200R
+111. WN3000RP V3
+112. WPS Router (5G) RT-N65U
+113. WPS Router DSL-AC51
+114. WPS Router DSL-AC52U
+115. WPS Router DSL-AC55U
+116. WPS Router DSL-N14U-B1
+117. WPS Router DSL-N16
+118. WPS Router DSL-N17U
+119. WPS Router RT-AC1200
+120. WPS Router RT-AC1200_V2
+121. WPS Router RT-AC1750
+122. WPS Router RT-AC1750U
+123. WPS Router RT-AC51
+124. WPS Router RT-AC51U
+125. WPS Router RT-AC52U
+126. WPS Router RT-AC52U_B1
+127. WPS Router RT-AC53
+128. WPS Router RT-AC57U
+129. WPS Router RT-AC65P
+130. WPS Router RT-AC750
+131. WPS Router RT-AC750L
+132. WPS Router RT-AC85P
+133. WPS Router RT-N11P
+134. WPS Router RT-N12 VP
+135. WPS Router RT-N12+
+136. WPS Router RT-N12E
+137. WPS Router RT-N12E_B1
+138. WPS Router RT-N14U
+139. WPS Router RT-N300
+140. WPS Router RT-N56U
+141. WPS Router RT-N56UB1
+142. WPS Router RT-N65U
+143. WR5570 2011-05-13
+144. Wi-Fi Protected Setup Router RT-AC1200G+
+145. Wi-Fi Protected Setup Router RT-AX55
+146. Wi-Fi Protected Setup Router RT-N10U
+147. Wi-Fi Protected Setup Router RT-N12
+148. Wi-Fi Protected Setup Router RT-N12D1
+149. Wi-Fi Protected Setup Router RT-N12VP
+150. Wireless Access Point .
+151. Wireless Router 123456
+152. Wireless Router RTL8xxx EV-2009-02-06
+153. Wireless Router Wireless Router
+154. Wireless WPS Router <#ZVMODELVZ#>
+155. Wireless WPS Router RT-N10E
+156. Wireless WPS Router RT-N10LX
+157. Wireless WPS Router RT-N12E
+158. Wireless WPS Router RT-N12LX
+159. ZyXEL NBG-416N AP Router
+160. ZyXEL NBG-416N AP Router NBG-416N
+161. ZyXEL NBG-418N AP Router
+162. ZyXEL NBG-418N AP Router NBG-418N
+163. ZyXEL Wireless AP Router NBG-417N
+164. Modem wifi 5 – ZTE F670Y
+165. Modem wifi 5 – ZTE F671Y
+166. ZTE ZXHN F670Y
+167. ZTE ZXHN F671Y
+168. Modem wifi 5 – Huawei HG8145V5-20
+169. Huawei HG8145V5-20
+
+
